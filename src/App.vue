@@ -24,4 +24,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
 }
+
+.container {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 0 20px;
+}
 </style>
