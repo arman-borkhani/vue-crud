@@ -1,5 +1,6 @@
-# blog
-
+# Vue CRUD
+Simple CRUD application using Vue, Vue Router, and Vuex  
+A demo is available at [this link](https://dazzling-rabanadas-92b303.netlify.app)
 ## Project setup
 ```
 npm install
