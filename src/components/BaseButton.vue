@@ -46,4 +46,16 @@ button:active {
   background-color: #270041;
   border-color: #270041;
 }
+
+.outline {
+  background-color: transparent;
+  border-color: #270041;
+  color: #270041;
+}
+
+.outline:hover,
+.outline:active ,
+.outline.active {
+  background-color: #edd2ff;
+}
 </style>
